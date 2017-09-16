@@ -1,2 +1,0 @@
-# fairgame
-game theory
